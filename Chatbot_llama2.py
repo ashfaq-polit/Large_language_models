@@ -6,14 +6,6 @@ Created on %(date)s
 @author: %(Ashfaq)s
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on %(date)s
-
-@author: %(Ashfaq)s
-"""
-
 ### Download model from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main
 ### https://medium.com/@weidagang/hello-llm-building-a-local-chatbot-with-langchain-and-llama2-3a4449fc4c03
 
